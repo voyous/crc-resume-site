@@ -10,6 +10,23 @@ body {
     margin: 0 auto;
 }
 
+.contact-link, .contacts {
+    display: flex;
+}
+
+.contacts {
+    gap: 8px;
+}
+
+.contact-text {
+    margin: 8px 0;
+}
+
+img {
+    height: 1rem;
+    margin: 9px 8px 0 0;
+}
+
 section, header, footer {
     padding: 0 0 0.5em;
 }
