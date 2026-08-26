@@ -14,6 +14,14 @@ body {
     font-family: var(--main-font);
 }
 
+main {
+    display: flex;
+    gap: 16px;
+}
+
+.main-content {
+    flex: 0 0 65%;
+}
 
 .wrapper {
     /* Wrapper for main page content */
