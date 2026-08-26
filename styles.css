@@ -36,9 +36,6 @@ img {
 
 footer {
     text-align: center;
-}
-
-section, header, footer {
     padding: 0 0 0.5em;
 }
 
@@ -65,6 +62,7 @@ h1 {
 h2 {
     font-size: 1.05rem;
     color: var(--primary-colour);
+    margin-top: 18px;
 }
 
 h3 {
@@ -72,8 +70,13 @@ h3 {
     color: var(--secondary-colour);
 }
 
+li {
+    margin-bottom: 6px;
+}
+
 p, li {
     color: var(--text-colour);
+    line-height: 18px;
 }
 
 a, a:visited {
