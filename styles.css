@@ -27,6 +27,10 @@ img {
     margin: 9px 8px 0 0;
 }
 
+footer {
+    text-align: center;
+}
+
 section, header, footer {
     padding: 0 0 0.5em;
 }
