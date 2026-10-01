@@ -87,3 +87,12 @@ a, a:visited {
 a:hover {
     color: var(--primary-colour);
 }
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.counter {
+    margin-right: 240px;
+}
