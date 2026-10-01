@@ -19,6 +19,10 @@ main {
     gap: 16px;
 }
 
+section {
+    padding-bottom: 10px;
+}
+
 .main-content {
     flex: 0 0 65%;
 }
@@ -27,6 +31,10 @@ main {
     /* Wrapper for main page content */
     max-width: 850px;
     margin: 0 auto;
+}
+
+header {
+    margin-bottom: 16px;
 }
 
 img {
@@ -38,6 +46,16 @@ footer {
     text-align: center;
     padding: 0 0 0.5em;
 }
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.counter {
+    margin-right: 240px;
+}
+
 
 /* Contact links */
 .contact-link, .contacts {
@@ -86,13 +104,4 @@ a, a:visited {
 
 a:hover {
     color: var(--primary-colour);
-}
-
-.header-content {
-    display: flex;
-    justify-content: space-between;
-}
-
-.counter {
-    margin-right: 240px;
 }
