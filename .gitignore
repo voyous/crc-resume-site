@@ -1,0 +1,13 @@
+# Python virtual environment
+.venv/
+
+# Pytest cache
+.pytest_cache/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Test and coverage artifacts
+.coverage
+htmlcov/
