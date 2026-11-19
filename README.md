@@ -1,6 +1,11 @@
 # Cloud Resume Site
 
-A static resume website for Chaska Ananiev, built with HTML, CSS, and JavaScript for Azure hosting as part of the Cloud Resume Challenge. It includes a live total visitor counter.
+A static resume website for Chaska Ananiev, built with HTML, CSS, and JavaScript as part of the Cloud Resume Challenge. It includes a live total visitor counter.
+
+## Hosting
+
+- **Vercel** hosts the static site, served at the custom domain `resume.voyous.dev`.
+- **Azure** hosts the visitor-counter API as an Azure Function App.
 
 ### See the website live [here](https://resume.voyous.dev)
 
