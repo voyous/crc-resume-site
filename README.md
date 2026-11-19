@@ -1,6 +1,6 @@
 # Cloud Resume Site
 
-This is Chaska Ananiev's resume website, built for the Cloud Resume Challenge. It's a static site made with HTML, CSS, and JavaScript, and it shows a live count of total visitors.
+This is Chaska Ananiev's resume website, built for the Cloud Resume Challenge. It's a static site made with HTML, CSS, and JavaScript, and it shows a live count of total visitors. Built as a learning project.
 
 **[View the live site](https://resume.voyous.dev)**
 
