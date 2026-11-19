@@ -1,0 +1,7 @@
+# Test suite and Python tooling (not part of the static site)
+tests/
+requirements.txt
+.venv/
+.pytest_cache/
+__pycache__/
+README.md
